@@ -4,10 +4,6 @@
 
 Welcome to the GrowInCommunity Website Building Competition! This competition challenges you to showcase your web development skills by creating a stunning and functional website.  We encourage creativity, innovation, and a strong focus on user experience.
 
-## Theme
-
-The theme for this year's competition is: "GrowIn-Website-Competetion".  
-
 ## Eligibility
 
 *   The competition is open to all folks and members of the GrowInCommunity.
@@ -16,8 +12,7 @@ The theme for this year's competition is: "GrowIn-Website-Competetion".
 ## Registration
 
 *   Registration opens on 18 February and closes on 23 February.
-*   To register, please visit [Link to Registration Form/Page].
-*   [Optional: Include specific registration instructions, e.g., team name requirements, submission of a project proposal, etc.]
+*   To register, please visit [Link to Registration Form/Page](https://forms.gle/BVKjsNhp8gFoR4657)
 
 ## Competition Timeline
 
@@ -44,17 +39,13 @@ The theme for this year's competition is: "GrowIn-Website-Competetion".
 The websites will be judged based on the following criteria:
 
 *   *Functionality (40%):*  Completeness of features, responsiveness, and overall usability.
-*   *Design (30%):*  Visual appeal, user interface, and user experience.
-*   *Innovation (20%):*  Creativity, originality, and use of new technologies.
-*   *Relevance to Theme (10%):*  How well the website aligns with the competition's theme.
+*   *Design (35%):*  Visual appeal, user interface, and user experience.
+*   *Innovation (25%):*  Creativity, originality, and use of new technologies.
 
 ## Prizes
 
-*   *1st Place:* Swags
-*   *2nd Place:* Swags
+*   *Winner:* Swags
   
-
-
 ## Code of Conduct
 
 *   All participants are expected to adhere to the GrowInCommunity Code of Conduct. [Link to your Code of Conduct]
