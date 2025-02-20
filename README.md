@@ -16,11 +16,11 @@ Welcome to the GrowInCommunity Website Building Competition! This competition ch
 
 ## Competition Timeline
 
-*   *Registration Period:* 18 Feb - 23 Feb
-*   *Development Period:* 24 Feb - 18 March
-*   *Submission Deadline:* 18 March 11:59 PM IST.
-*   *Judging Period:* 19 March - 21 March
-*   *Winner Announcement:* 22 March
+*   *Registration Period:* 21 Feb - 27 Feb
+*   *Development Period:* 27 Feb - 20 March
+*   *Submission Deadline:* 20 March 11:59 PM IST.
+*   *Judging Period:* 21 March - 23 March
+*   *Winner Announcement:* 25 March
 
 ## Submission Guidelines
 
@@ -48,7 +48,7 @@ The websites will be judged based on the following criteria:
   
 ## Code of Conduct
 
-*   All participants are expected to adhere to the GrowInCommunity Code of Conduct. [Link to your Code of Conduct]
+*   All participants are expected to adhere to the GrowInCommunity Code of Conduct.
 *   Plagiarism and cheating will not be tolerated.  Any submissions found to be in violation of this will be disqualified.
 
 ## Terms and Conditions
@@ -59,9 +59,9 @@ The websites will be judged based on the following criteria:
 
 ## Contact
 
-If you have any questions, please contact us at [Discord Channel/Email Address].
+If you have any questions or want to communicate regarding the same, please contact us at [Discord Channel/Email Address](https://discord.gg/DrkxHqTTaN).
 
 ## Sponsors
 1. GrowInCommunity
-2. Guru Raghupathy
+
 
