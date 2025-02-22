@@ -11,16 +11,16 @@ Welcome to the GrowInCommunity Website Building Competition! This competition ch
 
 ## Registration
 
-*   Registration opens on 18 February and closes on 23 February.
+*   Registration opens on 22 February and closes on 28 February.
 *   To register, please visit [Link to Registration Form/Page](https://forms.gle/BVKjsNhp8gFoR4657)
 
 ## Competition Timeline
 
-*   *Registration Period:* 21 Feb - 27 Feb
-*   *Development Period:* 27 Feb - 20 March
+*   *Registration Period:* 22 Feb - 28 Feb
+*   *Development Period:* 28 Feb - 20 March
 *   *Submission Deadline:* 20 March 11:59 PM IST.
 *   *Judging Period:* 21 March - 23 March
-*   *Winner Announcement:* 25 March
+*   *Winner Announcement:* 25/26 March
 
 ## Submission Guidelines
 
@@ -44,7 +44,7 @@ The websites will be judged based on the following criteria:
 
 ## Prizes
 
-*   *Winner:* Swags
+*   *Winner:* Tshirt, bottle and other swags
   
 ## Code of Conduct
 
