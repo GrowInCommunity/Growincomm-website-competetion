@@ -64,6 +64,12 @@ If you have any questions or want to communicate regarding the same, please cont
 
 ## Sponsors
 1. GrowInCommunity
+2. Vanguard
+
+---------------------------------------------------------
+Winners of the competetions are:
+1. Mehak Mantri
+2. Ansh Thakur
 
 
 
